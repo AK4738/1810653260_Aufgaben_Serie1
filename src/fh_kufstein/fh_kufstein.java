@@ -1,9 +1,9 @@
-package fh_kufstein;
+package fh_kufstein; //neues package
 
-public class fh_kufstein
+public class fh_kufstein //neue klasse
 {
-    public static void main (String[] args)
+    public static void main (String[] args) //neue methode
     {
-        System.out.println("FH Kufstein Tirol");
+        System.out.println("FH Kufstein Tirol"); // fh kufstein ausgabe
     }
 }

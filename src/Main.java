@@ -1,8 +1,7 @@
-public class Main {
+public class Main { // neue klasse
 
-    public static void main(String[] args) {
-        System.out.println("Hello World!");
+    public static void main(String[] args) { // neue methode
+        System.out.println("Hello World!"); // Hello world ausgeben
         System.out.println("Kadir Akdogan"); //Name ausgeben
-        //sout ist eine Kürzel
     }
 }
