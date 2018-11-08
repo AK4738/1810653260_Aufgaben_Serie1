@@ -2,6 +2,8 @@ package Variable;
 
 public class Variable
 {
+    private String BEZEICHNER;
+
     public static void main (String[] args)
     {
         String name;
@@ -14,6 +16,8 @@ public class Variable
 
         final String FH_KUFSTEIN_TIROL;//neue variable erstellt und als final definiert
          FH_KUFSTEIN_TIROL = "Fachhochschule Kufstein Tirol"; //final wert zugewiesen (nicht mehr veränderbar)
+
+        final String BEZEICHNER;
 
 
     }
